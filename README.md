@@ -1,0 +1,4 @@
+etrend
+======
+
+etrend tanacsadas
